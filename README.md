@@ -6,3 +6,5 @@ The data set used for this analysis provides profiles of  individual customers o
 The pbix file contains the PowerBI report, which requires PowerBI Desktop to open. For those who do not have **PowerBI Desktop** on your machine, you may download it from [this link](https://powerbi.microsoft.com/en-us/downloads/). It's free and only takes a few minutes to download
 
 The rtf file provides commentary to the analysis presented in the dashboard. Please read it alongside the dashboard for the best experience.
+
+Once you have PowerBI on your machine, download the two files to 
