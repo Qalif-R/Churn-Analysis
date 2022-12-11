@@ -7,4 +7,4 @@ The pbix file contains the PowerBI report, which requires PowerBI Desktop to ope
 
 The rtf file provides commentary to the analysis presented in the dashboard. Please read it alongside the dashboard for the best experience.
 
-Once you have PowerBI on your machine, download the two files to 
+Once you have PowerBI on your machine, download the files by clicking on \<Code\> in the top right and selecting Download ZIP.
